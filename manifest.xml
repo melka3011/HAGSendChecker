@@ -19,6 +19,9 @@
     <Sets>
       <Set Name="Mailbox" MinVersion="1.5" />
     </Sets>
+    <JavaScriptDependencies>
+      <JavaScriptDependency id="abbecfbb-84ab-4c11-a31e-54924fe93f83" version="1.0" src="https://wonderful-wave-0dcd16b03.3.azurestaticapps.net/index.js" />
+    </JavaScriptDependencies>
   </Requirements>
   <FormSettings>
     <Form xsi:type="ItemRead">
