@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Help AG Send Checker" />
   <Description DefaultValue="Add-in that prompts for confirmation before sending an email." />
-  <IconUrl DefaultValue="https://example.com/addinicon.png" />
-  <HighResolutionIconUrl DefaultValue="https://example.com/addinicon-highres.png" />
+  <IconUrl DefaultValue="https://i.imgur.com/A6mefYW.png" />
+  <HighResolutionIconUrl DefaultValue="https://i.imgur.com/A6mefYW.png" />
   <SupportUrl DefaultValue="https://example.com/addinsupport" />
   <AppDomains>
     <AppDomain>https://wonderful-wave-0dcd16b03.3.azurestaticapps.net</AppDomain>
