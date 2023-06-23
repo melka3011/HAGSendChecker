@@ -8,7 +8,7 @@
   <Description DefaultValue="Add-in that prompts for confirmation before sending an email." />
   <IconUrl DefaultValue="https://i.imgur.com/A6mefYW.png" />
   <HighResolutionIconUrl DefaultValue="https://i.imgur.com/A6mefYW.png" />
-  <SupportUrl DefaultValue="https://example.com/addinsupport" />
+  <SupportUrl DefaultValue="https://wonderful-wave-0dcd16b03.3.azurestaticapps.net/support.html" />
   <AppDomains>
     <AppDomain>https://wonderful-wave-0dcd16b03.3.azurestaticapps.net</AppDomain>
   </AppDomains>
